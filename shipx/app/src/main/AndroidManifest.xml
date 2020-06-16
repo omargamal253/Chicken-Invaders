@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shipx">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ship"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ship"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar"
+
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        >
+
+
+
+        <activity
+            android:name="com.example.shipx.MainActivity3" />
+
+        <activity
+            android:name="com.example.shipx.MainActivity2" />
+
+        <activity
+            android:name="com.example.shipx.Main6Activity" />
+
+        <activity
+            android:name="com.example.shipx.Main5Activity" />
+
+        <activity
+            android:name="com.example.shipx.Main4Activity" />
+
+        <activity
+            android:name="com.example.shipx.Main3Activity" />
+
+        <activity
+            android:name="com.example.shipx.Main2Activity">
+
+            <intent-filter>
+
+                <action
+                    android:name="android.intent.action.MAIN" />
+
+                <category
+                    android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.example.shipx.MainActivity" />
+    </application>
+
+</manifest>

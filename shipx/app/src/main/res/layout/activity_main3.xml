@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ch_background2"
+    tools:context=".Main3Activity">
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp"
+        android:text="Play"
+        android:textStyle="bold"
+        android:background="#00BFFF"
+        android:textSize="20dp"
+        android:id="@+id/playBtn"
+        android:onClick="play"
+        />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/playBtn"
+        android:layout_marginTop="20dp"
+        android:text="Level"
+        android:textStyle="bold"
+        android:background="#00BFFF"
+        android:textSize="20dp"
+        android:id="@+id/levelBtn"
+        android:onClick="level"
+
+        />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="About"
+        android:layout_below="@+id/levelBtn"
+        android:textStyle="bold"
+        android:background="#00BFFF"
+        android:textSize="20dp"
+        android:id="@+id/aboutBtn"
+        />
+
+
+
+
+</RelativeLayout>
