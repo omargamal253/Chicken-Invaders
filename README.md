@@ -1,6 +1,8 @@
 # Chicken-Invaders
 # Tools (Anroid studio - Java)
-Chicken Invaders android game  
-![level1](https://user-images.githubusercontent.com/48572908/84907482-8974f700-b0b3-11ea-92e6-12726b004525.png) ![level2](https://user-images.githubusercontent.com/48572908/84907491-8c6fe780-b0b3-11ea-98fb-49d7ecbcbc69.png) ![level3](https://user-images.githubusercontent.com/48572908/84907497-8da11480-b0b3-11ea-86d3-a4e6c13f566e.png)
+# android game  
+
+![level1 - Copy](https://user-images.githubusercontent.com/48572908/84908527-da391f80-b0b4-11ea-8bd5-3c8698c16295.png) ![level3 - Copy](https://user-images.githubusercontent.com/48572908/84908534-dc9b7980-b0b4-11ea-9e29-40f0a7f9e1fc.png) ![level2 - Copy](https://user-images.githubusercontent.com/48572908/84908533-dc02e300-b0b4-11ea-8143-a727c5b61490.png)
+
 
 
